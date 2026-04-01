@@ -9,7 +9,7 @@ Sou Ruan Pablo, tenho 18 anos e sou de Contagem (MG). Tenho formação técnica 
     <img 
       alt="GitHub" 
       title="Meu GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/matheusmfd7?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=GitHub&logoColor=white"
+      src="https://custom-icon-badges.demolab.com/github/followers/ruanpsaviotti?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=GitHub&logoColor=white"
     />
   </a>
 
